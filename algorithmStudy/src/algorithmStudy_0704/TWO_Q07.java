@@ -32,7 +32,7 @@ public class TWO_Q07 {
 			for (int i = dno - 1; i >= 0; i--) {
 				System.out.print(cno[i]);
 			}
-			System.out.print("입니다");
+			System.out.print("입니다..");
 
 			System.out.println("한번 더 할까요  /  1.예 , 2.아니오");
 			retry = sc.nextInt();
